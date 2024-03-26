@@ -1,1 +1,3 @@
-# whiteboxtesting2
+# whiteboxtesting
+
+mvn test to run tests 
